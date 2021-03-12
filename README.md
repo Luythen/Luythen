@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luythen
-- 👀 I’m interested in Java, Javascript
+- 👀 I’m interested in Java, C#, Javascript
 - 🌱 I’m currently learning Java
 
 <!---
